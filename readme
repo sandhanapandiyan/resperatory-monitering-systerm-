@@ -1,0 +1,5 @@
+Environment :python 3.10 
+UI:Streamlit
+Backend:Flask
+serial comunication :UART 
+Video Stream :Network strem
