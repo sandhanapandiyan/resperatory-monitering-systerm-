@@ -3,3 +3,8 @@ UI:Streamlit
 Backend:Flask
 serial comunication :UART 
 Video Stream :Network strem
+Motion detection in video  :python Open-cv
+
+
+Run the server 
+   bash run.sh     everything will be automated
